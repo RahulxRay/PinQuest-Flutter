@@ -1,0 +1,108 @@
+{
+  "badges": [
+    {
+      "id": "badge_001",
+      "title": "First Steps",
+      "description": "Complete your first check-in",
+      "iconPath": "assets/images/badges/first_steps.png",
+      "category": "general",
+      "requiredPoints": 0,
+      "requiredAction": "check_in",
+      "requiredCount": 1,
+      "rarity": "common"
+    },
+    {
+      "id": "badge_002",
+      "title": "Explorer",
+      "description": "Check in at 10 different locations",
+      "iconPath": "assets/images/badges/explorer.png",
+      "category": "explorer",
+      "requiredPoints": 0,
+      "requiredAction": "check_in",
+      "requiredCount": 10,
+      "rarity": "uncommon"
+    },
+    {
+      "id": "badge_003",
+      "title": "Point Collector",
+      "description": "Accumulate 100 points",
+      "iconPath": "assets/images/badges/point_collector.png",
+      "category": "general",
+      "requiredPoints": 100,
+      "rarity": "common"
+    },
+    {
+      "id": "badge_004",
+      "title": "Trail Blazer",
+      "description": "Complete your first trail",
+      "iconPath": "assets/images/badges/trail_blazer.png",
+      "category": "social",
+      "requiredPoints": 0,
+      "requiredAction": "complete_trail",
+      "requiredCount": 1,
+      "rarity": "uncommon"
+    },
+    {
+      "id": "badge_005",
+      "title": "Content Creator",
+      "description": "Create your first pin",
+      "iconPath": "assets/images/badges/content_creator.png",
+      "category": "creator",
+      "requiredPoints": 0,
+      "requiredAction": "create_pin",
+      "requiredCount": 1,
+      "rarity": "common"
+    },
+    {
+      "id": "badge_006",
+      "title": "Adventure Seeker",
+      "description": "Check in at 25 different locations",
+      "iconPath": "assets/images/badges/adventure_seeker.png",
+      "category": "explorer",
+      "requiredPoints": 0,
+      "requiredAction": "check_in",
+      "requiredCount": 25,
+      "rarity": "rare"
+    },
+    {
+      "id": "badge_007",
+      "title": "Point Master",
+      "description": "Accumulate 500 points",
+      "iconPath": "assets/images/badges/point_master.png",
+      "category": "general",
+      "requiredPoints": 500,
+      "rarity": "rare"
+    },
+    {
+      "id": "badge_008",
+      "title": "Trail Completed",
+      "description": "Complete 5 different trails",
+      "iconPath": "assets/images/badges/trail_master.png",
+      "category": "social",
+      "requiredPoints": 0,
+      "requiredAction": "complete_trail",
+      "requiredCount": 5,
+      "rarity": "epic"
+    },
+    {
+      "id": "badge_009",
+      "title": "Pin Master",
+      "description": "Create 10 pins",
+      "iconPath": "assets/images/badges/pin_master.png",
+      "category": "creator",
+      "requiredPoints": 0,
+      "requiredAction": "create_pin",
+      "requiredCount": 10,
+      "rarity": "epic"
+    },
+    {
+      "id": "badge_010",
+      "title": "Legend",
+      "description": "Accumulate 1000 points",
+      "iconPath": "assets/images/badges/legend.png",
+      "category": "achievement",
+      "requiredPoints": 1000,
+      "rarity": "legendary"
+    }
+  ]
+}

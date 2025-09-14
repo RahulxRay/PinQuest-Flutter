@@ -1,0 +1,64 @@
+{
+  "trails": [
+    {
+      "id": "trail_001",
+      "title": "San Francisco Highlights",
+      "description": "A comprehensive tour of San Francisco's most iconic locations",
+      "pinIds": ["pin_001", "pin_002", "pin_003"],
+      "createdBy": "user_001",
+      "createdAt": "2024-01-21T10:00:00Z",
+      "difficulty": "medium",
+      "estimatedDuration": 180,
+      "distance": 8.5,
+      "tags": ["sightseeing", "iconic", "tourist"],
+      "isPublic": true,
+      "completionCount": 23,
+      "rating": 4.7
+    },
+    {
+      "id": "trail_002", 
+      "title": "Coffee Lover's Journey",
+      "description": "Discover the best coffee spots in the city",
+      "pinIds": ["pin_004"],
+      "createdBy": "user_003",
+      "createdAt": "2024-01-22T08:30:00Z",
+      "difficulty": "easy",
+      "estimatedDuration": 60,
+      "distance": 2.1,
+      "tags": ["coffee", "local", "foodie"],
+      "isPublic": true,
+      "completionCount": 15,
+      "rating": 4.5
+    },
+    {
+      "id": "trail_003",
+      "title": "Outdoor Adventure",
+      "description": "Explore the natural beauty and outdoor spaces",
+      "pinIds": ["pin_005", "pin_001"],
+      "createdBy": "user_002",
+      "createdAt": "2024-01-23T15:20:00Z",
+      "difficulty": "easy",
+      "estimatedDuration": 120,
+      "distance": 4.2,
+      "tags": ["outdoor", "nature", "views"],
+      "isPublic": true,
+      "completionCount": 8,
+      "rating": 4.4
+    },
+    {
+      "id": "trail_004",
+      "title": "Historical SF",
+      "description": "Journey through San Francisco's rich history",
+      "pinIds": ["pin_006", "pin_002"],
+      "createdBy": "user_001",
+      "createdAt": "2024-01-24T12:00:00Z",
+      "difficulty": "medium",
+      "estimatedDuration": 240,
+      "distance": 6.8,
+      "tags": ["history", "museum", "educational"],
+      "isPublic": true,
+      "completionCount": 12,
+      "rating": 4.8
+    }
+  ]
+}
